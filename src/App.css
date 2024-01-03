@@ -1,0 +1,25 @@
+*{
+    background: rgb(81, 91, 95);
+    font-family: sans-serif;
+    justify-content: center;
+    justify-items: center;
+    align-items:"center ";
+    
+    margin-left: 10px;
+    color: aliceblue;
+    
+  
+}
+
+/* .btn{
+    background: rgb(222, 229, 241);
+
+} */
+button {
+    padding: 8px;
+  }
+  
+  input {
+    padding: 8px;
+    outline: none;
+  }
